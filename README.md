@@ -48,7 +48,10 @@
 🔗 <a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="color:#0077B5;">linkedin.com/in/talip-kurt</a>
 
 ---
-![](https://komarev.com/ghpvc/?username=tlpkurt&label=Ziyaretçi%20Sayısı&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tplkurt&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tplkurt&show_icons=true&theme=tokyonight)
+
 ---
 
 <!---
