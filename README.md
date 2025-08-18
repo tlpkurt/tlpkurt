@@ -30,10 +30,20 @@
 - AI and Image Processing experiments  
 
 ---  
+
 ## You can contact me via:
 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkurtt27@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/talip-kurt)
+<a href="mailto:tkurtt27@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" style="margin-right:10px;"/>
+</a>
+<a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
+</a>
+
+<br/>
+
+📧 <a href="mailto:tkurtt27@gmail.com" target="_blank" style="color:#D14836;">tkurtt27@gmail.com</a>  
+🔗 <a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="color:#0077B5;">linkedin.com/in/talip-kurt</a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=tlpkurt&label=Ziyaretçi%20Sayısı&color=blue)
