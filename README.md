@@ -35,6 +35,8 @@ You can contact me via:
 🔗 https://tr.linkedin.com/in/talip-kurt
 
 ---
+![](https://komarev.com/ghpvc/?username=tlpkurt&label=Ziyaretçi%20Sayısı&color=blue)
+---
 
 <!---
 tlpkurt/tlpkurt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
