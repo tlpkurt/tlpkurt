@@ -11,33 +11,15 @@
 - 🧠 Exploring **Image Processing** and **Artificial Intelligence**
 ---
 
-## ⚙️ Tools & Technologies
-
 ## 🚀 Tech Stack
 
-### ✅ Testing & Automation  
-![Cypress](https://img.shields.io/badge/-Cypress-4BCF4F?style=flat&logo=cypress&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+| ✅ Testing & Automation | 💻 Frontend            | 🔧 DevOps & VCS            | 🧠 Data & AI                  | 📋 Processes                       |
+|------------------------|-----------------------|---------------------------|------------------------------|----------------------------------|
+| ![Cypress](https://img.shields.io/badge/-Cypress-4BCF4F?style=flat&logo=cypress&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Writing test cases, bug tracking, Agile methodologies |
+| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | (Image Processing & Machine Learning) |                                  |
+| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |                              |                                  |
+|                        | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | CI/CD                     |                              |                                  |
 
-### 💻 Frontend  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-### 🔧 DevOps & VCS  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)  
-CI/CD
-
-### 🧠 Data & AI  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-(Image Processing & Machine Learning)
-
-### 📋 Processes  
-Writing test cases, bug tracking, Agile methodologies
 
 
 ---
