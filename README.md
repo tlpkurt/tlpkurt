@@ -21,6 +21,10 @@
 | 🧠 Data & AI           | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) (Image Processing & Machine Learning) |
 | 📋 Processes           | Writing test cases, bug tracking, Agile methodologies                                   |
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlpkurt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlpkurt&layout=compact&theme=tokyonight)
 ---
 
 ## 🤝 Let's Collaborate
@@ -48,11 +52,6 @@
 🔗 <a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="color:#0077B5;">linkedin.com/in/talip-kurt</a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tplkurt&style=flat&color=blue)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlpkurt&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlpkurt&show_icons=true&theme=tokyonight)
 
 ---
 
