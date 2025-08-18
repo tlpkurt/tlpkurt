@@ -31,6 +31,7 @@
 
 You can contact me via:  
 📧 tkurtt27@gmail.com 
+
 🔗 https://tr.linkedin.com/in/talip-kurt
 
 ---
