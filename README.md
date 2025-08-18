@@ -29,10 +29,11 @@
 - Web-based applications  
 - AI and Image Processing experiments  
 
-You can contact me via:  
-📧 tkurtt27@gmail.com 
+---  
+## You can contact me via:
 
-🔗 https://tr.linkedin.com/in/talip-kurt
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkurtt27@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/talip-kurt)
 
 ---
 ![](https://komarev.com/ghpvc/?username=tlpkurt&label=Ziyaretçi%20Sayısı&color=blue)
