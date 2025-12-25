@@ -1,14 +1,15 @@
-# ✨ tlpkurt | QA Engineer | Web & AI Enthusiast
+# ✨ tlpkurt | Full Stack Engineer | Quality-Driven Web & AI
 
-👋 Hi, I’m **@tlpkurt**, a QA Engineer passionate about test automation, software quality, and modern web technologies. I focus on improving testing processes, ensuring excellent user experiences, and keeping up with the latest in tech.
+👋 Hi, I’m **@tlpkurt**, a full stack engineer building reliable and scalable web applications, with a strong background in quality assurance and IT systems, focused on improving technology processes, delivering excellent user experiences, and staying up to date with the latest advancements in tech.
 
 ---
 
 ## 💼 About Me
 
-- 🧪 Working as a **QA Engineer**, automating test flows using **Cypress**
-- 🌐 Interested in web technologies and modern UI frameworks
-- 🧠 Exploring **Image Processing** and **Artificial Intelligence**
+- 💻 Working as a **Full Stack Engineer**, developing and maintaining web applications end to end  
+- 🧪 Bringing a **quality-driven mindset** through test automation and reliable engineering practices  
+- 🌐 Building modern, user-focused interfaces with up-to-date web technologies  
+- 🧠 Integrating and experimenting with **AI-powered features** in real-world applications
 ---
 
 ## 🚀 Tech Stack
@@ -37,7 +38,7 @@
 
 ## You can contact me via:
 
-<a href="mailto:tkurtt27@gmail.com" target="_blank" style="text-decoration:none;">
+<a href="mailto:mail@talipkurt.dev" target="_blank" style="text-decoration:none;">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" style="margin-right:10px;"/>
 </a>
 <a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="text-decoration:none;">
@@ -46,7 +47,7 @@
 
 <br/>
 
-📧 <a href="mailto:tkurtt27@gmail.com" target="_blank" style="color:#D14836;">tkurtt27@gmail.com</a>  
+📧 <a href="mailto:mail@talipkurt.dev" target="_blank" style="color:#D14836;">tkurtt27@gmail.com</a>  
 🔗 <a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="color:#0077B5;">linkedin.com/in/talip-kurt</a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tplkurt&style=flat&color=blue)
