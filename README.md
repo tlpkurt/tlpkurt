@@ -47,7 +47,7 @@
 
 <br/>
 
-📧 <a href="mailto:mail@talipkurt.dev" target="_blank" style="color:#D14836;">tkurtt27@gmail.com</a>  
+📧 <a href="mailto:mail@talipkurt.dev" target="_blank" style="color:#D14836;">mail@talipkurt.dev</a>  
 🔗 <a href="https://tr.linkedin.com/in/talip-kurt" target="_blank" style="color:#0077B5;">linkedin.com/in/talip-kurt</a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tplkurt&style=flat&color=blue)
